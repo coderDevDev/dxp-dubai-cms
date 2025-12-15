@@ -1,7 +1,7 @@
 const nextConfig = {
   typescript: { ignoreBuildErrors: true },
   images: { unoptimized: true },
-  trailingSlash: true,
+  trailingSlash: false,
   assetPrefix: ''
 };
 
